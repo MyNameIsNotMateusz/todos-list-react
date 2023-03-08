@@ -1,0 +1,4 @@
+.flex__newButtons {
+    display: flex;
+    justify-content: center;
+  }
